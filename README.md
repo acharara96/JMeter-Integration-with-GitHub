@@ -17,3 +17,5 @@ Push your files from JMeter to GitHub
 
 Please see https://jmeter.apache.org/usermanual/get-started.html for more information on the possible arguments
 
+## Example Usage
+
