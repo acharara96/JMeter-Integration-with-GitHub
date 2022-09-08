@@ -2,3 +2,5 @@
 Push your files from JMeter to GitHub
 
 ## Inputs
+
+**testFilePath
