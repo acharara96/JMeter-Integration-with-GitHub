@@ -1,5 +1,5 @@
 # JMeter-Integration-with-GitHub
-Push your files from JMeter to GitHub
+Push your JMX files from JMeter to GitHub
 
 ## Inputs
 
